@@ -218,6 +218,9 @@ _Puedes encontrar mucho más información al respecto en:_
 * [Merge](https://www.atlassian.com/es/git/tutorials/using-branches/git-merge) - Merge
 * [Manejo de ramas](https://desarrolloweb.com/articulos/trabajar-ramas-git.html) - Manejo de ramas
 * [Clonacion de ramas](https://www.freecodecamp.org/espanol/news/como-clonar-una-branch-en-git/) - Clonación 
+* [Ramas y fuciones](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Procedimientos-B%C3%A1sicos-para-Ramificar-y-Fusionar) - Ramificar y Fusionar
+
+
 
 
 ## Autores ✒️
